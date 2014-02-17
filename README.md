@@ -1,7 +1,7 @@
 m_duino
 =======
 
-Multi-Duino : Arduino for Simple raspberrypi
+Multi-Duino : Simple Arduino for raspberrypi
 
 pi@openmake ~ $ sudo nano /boot/cmdine.txt
 

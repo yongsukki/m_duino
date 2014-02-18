@@ -9,3 +9,4 @@ sudo apt-get install -y arduino
 wget http://project-downloads.drogon.net/gertboard/setup.sh
 sudo sh ./setup.sh
 sudo avrdude -p m328p -c gpio
+echo 'You must reboot'

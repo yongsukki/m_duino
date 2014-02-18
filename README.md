@@ -3,9 +3,13 @@ m_duino
 
 Multi-Duino : Simple Arduino for raspberrypi
 
+
 pi@openmake ~ $ git clone https://github.com/rasplay/m_duino
+
 pi@openmake ~ $ cd m_duino
+
 pi@openmake ~ $ chmod 744 multi_duino.sh
+
 pi@openmake ~ $ sudo ./multi_duino.sh
 
 TIP : Atmga328P bootload upload shell command
